@@ -83,3 +83,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         4.Services and rates 
 4. Body 
 5. Needs to be reactive to screen size
+
+
+Other tasks
+
+- Add dog favicon
+- Pull in fonts
+
+
+
+Possible upgrades
+
+- Upload function for dog pics
+    - Should only display last ~15 pics
