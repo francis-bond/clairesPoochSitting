@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clairesPoochSitting/static/css/main.4a9fc5ec.css",
+    "main.js": "/clairesPoochSitting/static/js/main.c3ba78ab.js",
+    "static/media/IMG_6642.jpg": "/clairesPoochSitting/static/media/IMG_6642.b0c28d99eaf040a78138.jpg",
+    "static/media/mumslogo3.webp": "/clairesPoochSitting/static/media/mumslogo3.1674c60d5fb3fe6c0ac1.webp",
+    "index.html": "/clairesPoochSitting/index.html",
+    "main.4a9fc5ec.css.map": "/clairesPoochSitting/static/css/main.4a9fc5ec.css.map",
+    "main.c3ba78ab.js.map": "/clairesPoochSitting/static/js/main.c3ba78ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9fc5ec.css",
+    "static/js/main.c3ba78ab.js"
+  ]
+}
