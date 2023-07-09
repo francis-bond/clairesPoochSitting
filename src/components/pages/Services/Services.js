@@ -3,9 +3,10 @@ import React from "react";
 export default function Services(){
     return(
     <body className="w-100 h-auto">
-        <div className="">
-            <h2 className="ml-5 p-2">Services</h2>
-            <div className="col-6">
+        <div className="ml-5 p-2">
+            <h2 className="pb-2">Services</h2>
+            <div className="row">
+            <div className="">
             <div className="">
                 <h4>Pet Services Include:</h4>
                 <ul>
@@ -27,9 +28,9 @@ export default function Services(){
                 </ul>
             </div>
             </div>
-            <div className="col-6">
             <div className="">
-                <h4>Rates as of 07/08/2023:</h4>
+            <div className="">
+                <h4>Rates as of July '23:</h4>
                 <ul>
                     <li>$25 per visit for one pet : 30 minutes</li>
                     <li>$ 3 per extra pet</li>
@@ -42,6 +43,7 @@ export default function Services(){
                         <li>New Years Day</li>
                     </ul>
                 </ul>
+            </div>
             </div>
             </div>
         </div>

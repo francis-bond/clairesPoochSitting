@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
 header{
     background-color: #EDF3F9;
+    font-family: 'Cookie', cursive;
+}
+
+.tagline{
+    text-indent: 6rem;
 }
