@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clairesPoochSitting/static/css/main.cbce8914.css",
-    "main.js": "/clairesPoochSitting/static/js/main.6dbff351.js",
+    "main.js": "/clairesPoochSitting/static/js/main.ac54dc5a.js",
     "static/media/IMG_6642.jpg": "/clairesPoochSitting/static/media/IMG_6642.b0c28d99eaf040a78138.jpg",
     "static/media/mumslogo3.webp": "/clairesPoochSitting/static/media/mumslogo3.1674c60d5fb3fe6c0ac1.webp",
     "index.html": "/clairesPoochSitting/index.html",
     "main.cbce8914.css.map": "/clairesPoochSitting/static/css/main.cbce8914.css.map",
-    "main.6dbff351.js.map": "/clairesPoochSitting/static/js/main.6dbff351.js.map"
+    "main.ac54dc5a.js.map": "/clairesPoochSitting/static/js/main.ac54dc5a.js.map"
   },
   "entrypoints": [
     "static/css/main.cbce8914.css",
-    "static/js/main.6dbff351.js"
+    "static/js/main.ac54dc5a.js"
   ]
 }
