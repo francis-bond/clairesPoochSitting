@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.cbce8914.css",
-    "main.js": "/static/js/main.e1780445.js",
+    "main.js": "/static/js/main.c93e42fb.js",
     "static/media/IMG_6642.jpg": "/static/media/IMG_6642.b0c28d99eaf040a78138.jpg",
     "static/media/mumslogo3.webp": "/static/media/mumslogo3.1674c60d5fb3fe6c0ac1.webp",
     "index.html": "/index.html",
     "main.cbce8914.css.map": "/static/css/main.cbce8914.css.map",
-    "main.e1780445.js.map": "/static/js/main.e1780445.js.map"
+    "main.c93e42fb.js.map": "/static/js/main.c93e42fb.js.map"
   },
   "entrypoints": [
     "static/css/main.cbce8914.css",
-    "static/js/main.e1780445.js"
+    "static/js/main.c93e42fb.js"
   ]
 }
