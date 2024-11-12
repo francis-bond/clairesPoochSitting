@@ -32,10 +32,10 @@ export default function Services(){
             <div className="">
                 <h4>Rates as of July '23:</h4>
                 <ul>
-                    <li>$25 per visit for one pet : 30 minutes</li>
-                    <li>$ 3 per extra pet</li>
-                    <li>$ 20 pet taxi</li>
-                    <li>$ 5 extra per visit for following holidays:</li>
+                    <li>$30 per visit for one pet : 30 minutes</li>
+                    <li>$3 per extra pet</li>
+                    <li>$25 pet taxi</li>
+                    <li>$5 extra per visit for following holidays:</li>
                     <ul>
                         <li>Fourth of July</li>
                         <li>Thanksgiving</li>
